@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on tools for [IBM ELM](https://jazz.net)
+- 🌱 I’m currently learning how Artificial Intelligence can improve Systems Engineering 
+
 <!--
 **soblinger/soblinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
